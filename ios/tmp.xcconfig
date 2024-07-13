@@ -1,0 +1,4 @@
+API_KEY=8cfbb968d00144de606f87aadca148f1
+API_BASE_URL=https:/$()/api.themoviedb.org/3
+IMG_URL=https:/$()/image.tmdb.org/t/p/w500
+BUILD_VARIANT=DEV
